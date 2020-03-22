@@ -1,0 +1,7 @@
+gym
+numpy
+matplotlib
+keras
+pandas
+sklearn
+alpha_vantage
